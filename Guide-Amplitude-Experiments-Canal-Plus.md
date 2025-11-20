@@ -1,7 +1,6 @@
 # Guide de Bonnes Pratiques : Amplitude Experiments
 ## Résolution des Problèmes de Cohérence des Populations
 
-**Destiné à :** Équipe Canal+ - Test A/B Page de Contact Service Client  
 **Date :** Novembre 2025
 
 ---
